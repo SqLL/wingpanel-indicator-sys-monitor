@@ -13,26 +13,26 @@ msgstr ""
 "Language-Team: none\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ASCII\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: src/Indicator.vala:15
 msgid "Sys-Monitor"
-msgstr ""
+msgstr "Système métrique"
 
 #: src/Indicator.vala:16
 msgid "System monitor indicator that display CPU and RAM usage in wingpanel"
-msgstr ""
+msgstr "Système metrique indiquant l'usage du processeur et de la mémoire sur le panneau"
 
 #: src/Widgets/PopoverWidget.vala:19
 msgid "Main"
-msgstr ""
+msgstr "Main"
 
 #: src/Widgets/PopoverWidget.vala:20
 msgid "Settings"
-msgstr ""
+msgstr "Réglages"
 
 #: src/Widgets/PopoverWidget.vala:31
 msgid "Quit"
-msgstr ""
+msgstr "Quitter"
